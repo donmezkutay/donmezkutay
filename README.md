@@ -18,6 +18,9 @@
 <img src="https://komarev.com/ghpvc/?username=donmezkutay&style=flat-square&color=blue" alt=""/>
 </div>
 
+🔭 **Education**
+- ***BSc.***: Meteorological Engineering from 𝐼𝑠𝑡𝑎𝑛𝑏𝑢𝑙 𝑇𝑒𝑐ℎ𝑛𝑖𝑐𝑎𝑙 𝑈𝑛𝑖𝑣𝑒𝑟𝑠𝑖𝑡𝑦 with a GPA of 3.45/4
+- 
 <!--
 **donmezkutay/donmezkutay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
