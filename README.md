@@ -32,21 +32,21 @@
 - At the International Congress on Global Climate Change held by *Çanakkale 18 Mart University* in May 2021, our paper, of which I am one of the authors, won the ***Most Innovative Paper Award**.
 
 👯 **Interested In**
-* Python:
+* *Python*:
     * e.g. Numpy, Pandas, Xarray, Sklearn, Keras, Matplotlib, Metpy
-* Data Science:
+* *Data Science*:
     * Weather, Climate Data Science/Analytics
-* Climate Science:
+* *Climate Science*:
     * Climate Modelling (COSMO)
-* Machine Learning: 
+* *Machine Learning*: 
     * Time Series Modelling
-* WRF Model:
+* *WRF Model*:
     * Weather Modelling, Case Studies
-* Visualization:
+* *Visualization*:
     * e.g. Matplotlib, Plotly
-* Renewable Energy:
+* *Renewable Energy*:
     * Wind, Solar Power Data Science/Analytics
-* Dashboards: 
+* *Dashboards*: 
     * e.g. Plotly-Dash, Streamlit
 
 <!--
