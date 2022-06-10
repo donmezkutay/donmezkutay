@@ -21,7 +21,7 @@
 🔭 **Education**
 - ***BSc.***: Meteorological Engineering from ***Istanbul Technical University*** with a GPA of *3.45/4* <br>
     - ***Thesis Topic***: Assessment of Urbanization Impact On Heavy Precipitation in Istanbul, Turkey
-- ***MSc***: Currently Atmospheric Sciences Student at ***Istanbul Technical University*** (𝐢𝐭𝐮.𝐞𝐝𝐮.𝐭𝐫)
+- ***MSc***: Currently Atmospheric Sciences Student at ***Istanbul Technical University*** (*itu.edu.tr*)
     - ***Thesis Topic***: Climate Modelling Using COSMO (ongoing)
 
 🌱 **About Me** 
@@ -29,7 +29,7 @@
 
 - I developed a Python library called *Visjobs* (**pypi.org/project/visjobs**) (downloaded over **18.000** times according to pepy.tech) that makes it easy for atmospheric scientists to access model and observation data (ERA5, GFS, GEFS, NAM, GHCN) without even having to download them (OpenDAP).
 
-- At the International Congress on Global Climate Change held by *Çanakkale 18 Mart University* in May 2021, our paper, of which I am one of the authors, won the ***Most Innovative Paper Award**.
+- At the International Congress on Global Climate Change held by *Çanakkale 18 Mart University* in May 2021, our paper, of which I am one of the authors, won the ***Most Innovative Paper Award***.
 
 👯 **Interested In**
 * *Python*:
