@@ -31,7 +31,7 @@
 
 - At the International Congress on Global Climate Change held by ***[Canakkale 18 Mart University](https://igccc.info/)*** in May 2021, our paper, of which I am one of the authors, won the ***Most Innovative Paper Award***.
 
-## 💬 **[Click Here For More About Me](https://linktr.ee/kutaydonmez)**
+## 💬 **[Click Here to Learn More About Me](https://linktr.ee/kutaydonmez)**
 
 # 👯 **Interested In**
 * *Python*:
