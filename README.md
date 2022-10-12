@@ -19,7 +19,7 @@
 </div>
 
 # ⚡ **Latest!**
-- ***CHECK MY NEW PUBLICATION on [Urban Climate](https://www.sciencedirect.com/journal/urban-climate) ---------*** *[Urbanization-induced changes in convective and frontal precipitation events in Ankara](https://www.sciencedirect.com/science/article/pii/S2212095522002346#bb0020)*
+- ***CHECK MY NEW PUBLICATION on [Urban Climate](https://www.sciencedirect.com/journal/urban-climate) >>> *** *[Urbanization-induced changes in convective and frontal precipitation events in Ankara](https://www.sciencedirect.com/science/article/pii/S2212095522002346#bb0020)*
 
 # 🔭 **Education**
 - ***BSc.***: Meteorological Engineering from ***[Istanbul Technical University](https://www.itu.edu.tr/)*** with a GPA of *3.45/4* <br>
