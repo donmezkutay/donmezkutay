@@ -18,6 +18,8 @@
 <img src="https://komarev.com/ghpvc/?username=donmezkutay&style=flat-square&color=blue" alt=""/>
 </div>
 
+# 😄 **[Click Here to See My Online Profile](https://donmezkutay.github.io/)**
+
 # ⚡ **Latest!**
 - ***CHECK MY NEW PUBLICATION on [Urban Climate](https://www.sciencedirect.com/journal/urban-climate) >>>*** *[Urbanization-induced changes in convective and frontal precipitation events in Ankara](https://www.sciencedirect.com/science/article/pii/S2212095522002346#bb0020)*
 
@@ -32,9 +34,11 @@
 
 - I developed a Python library called ***[Visjobs](https://pypi.org/project/visjobs/)*** (downloaded over **18.000** times according to ***[pepy.tech](https://pepy.tech/project/visjobs)*** that makes it easy for atmospheric scientists to access model and observation data (ERA5, GFS, GEFS, NAM, GHCN) without even having to download them (OpenDAP).
 
-- At the International Congress on Global Climate Change held by ***[Canakkale 18 Mart University](https://igccc.info/)*** in May 2021, our paper, of which I am one of the authors, won the ***Most Innovative Paper Award***.
+# 📫 **Currently**
 
-## 💬 **[Click Here to Learn More About Me](https://linktr.ee/kutaydonmez)**
+- In my MSc project, I am applying a non-stationary extreme value analysis to high-resolution future projections of extreme precipitation indices. During the research, I become familiar with the concept of downscaling (of COSMO-CLM model) and statistical modeling. Further, I gained extensive practical experience using Xarray, Pandas, and Metpy to analyze various data formats (netCDF, GRIB, HDF) and types (reanalysis, projections, satellite data).
+
+## 💬 **[Click Here to Learn More About Me](https://linktr.ee/kutaydonmez)** <br>
 
 # 👯 **Interested In**
 * *Python*:
