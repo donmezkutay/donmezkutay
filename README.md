@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=donmezkutay&style=flat-square&color=blue" alt=""/>
 </div>
 
-# 😄 **[Click Here to See My Online Profile](https://donmezkutay.github.io/)**
+# 😄 **[Click Here to See My Portfolio](https://donmezkutay.github.io/)**
 
 # ⚡ **Latest!**
 - ***CHECK MY NEW PUBLICATION on [Urban Climate](https://www.sciencedirect.com/journal/urban-climate) >>>*** *[Urbanization-induced changes in convective and frontal precipitation events in Ankara](https://www.sciencedirect.com/science/article/pii/S2212095522002346#bb0020)*
