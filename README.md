@@ -26,7 +26,7 @@
 # 🔭 **Education**
 - ***BSc.***: Meteorological Engineering from ***[Istanbul Technical University](https://www.itu.edu.tr/)*** with a GPA of *3.45/4* <br>
     - ***Thesis Topic***: Assessment of Urbanization Impact On Heavy Precipitation in Istanbul, Turkey
-- ***MSc***: Currently Atmospheric Sciences Student at ***[Istanbul Technical University](https://www.itu.edu.tr/)*** with a GPA of *3.88/4* <br>
+- ***MSc***: Currently Atmospheric Sciences Student at ***[Istanbul Technical University](https://www.itu.edu.tr/)*** with a GPA of *3.93/4* <br>
     - ***Thesis Topic***: Climate Modelling Using COSMO (ongoing)
 
 # 🌱 **About Me** 
