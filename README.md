@@ -32,7 +32,7 @@
 # 🌱 **About Me** 
 - I have been improving myself to think like an engineer and observe like an atmospheric scientist, which has led me to develop new ideas to assist Climate Science. One of those ideas was to create a website, ***[Climaturk](https://climaturk.com/)***, that reveals the climate conditions of atmospheric variables in Turkey, using comprehensive statistical and thermodynamic methods. I processed the state-of-art climate data utilizing various data types (NETCDF, HDF5, GRIB, CSV) with popular Python libraries (Xarray, Numpy, Pandas, Salem, Matplotlib) and visualized it to the end-user in very engaging ways.
 
-- I developed a Python library called ***[Visjobs](https://pypi.org/project/visjobs/)*** (downloaded over **18.000** times according to ***[pepy.tech](https://pepy.tech/project/visjobs)*** that makes it easy for atmospheric scientists to access model and observation data (ERA5, GFS, GEFS, NAM, GHCN) without even having to download them (OpenDAP).
+- I developed a Python library called ***[Visjobs](https://pypi.org/project/visjobs/)*** (downloaded over **22.000** times according to ***[pepy.tech](https://pepy.tech/project/visjobs)*** that makes it easy for atmospheric scientists to access model and observation data (ERA5, GFS, GEFS, NAM, GHCN) without even having to download them (OpenDAP).
 
 # 📫 **Currently**
 
