@@ -21,7 +21,7 @@
 # ✨ **[Click Here to See My Portfolio](https://donmezkutay.github.io/)**
 
 # ⚡ **Latest!**
-- ***CHECK MY NEW PUBLICATION on [Urban Climate](https://www.sciencedirect.com/journal/urban-climate) >>>*** *[Urbanization-induced changes in convective and frontal precipitation events in Ankara](https://www.sciencedirect.com/science/article/pii/S2212095522002346#bb0020)*
+- ***CHECK MY NEW PUBLICATION on [Atmospheric Research](https://www.sciencedirect.com/journal/atmospheric-research/vol/286/suppl/C) >>>*** *[Boundary-dependent urban impacts on timing, pattern, and magnitude of heavy rainfall in Istanbul](https://authors.elsevier.com/c/1gh9Lcd3SJ4NL)*
 
 # 🔭 **Education**
 - ***BSc.***: Meteorological Engineering from ***[Istanbul Technical University](https://www.itu.edu.tr/)*** with a GPA of *3.45/4* <br>
