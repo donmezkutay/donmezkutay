@@ -24,10 +24,10 @@
 - ***CHECK MY NEW PUBLICATION on [Atmospheric Research](https://www.sciencedirect.com/journal/atmospheric-research/vol/286/suppl/C) >>>*** *[Boundary-dependent urban impacts on timing, pattern, and magnitude of heavy rainfall in Istanbul](https://www.sciencedirect.com/science/article/abs/pii/S0169809523000789?dgcid=coauthor)*
 
 # 🔭 **Education**
-- ***BSc.***: Meteorological Engineering from ***[Istanbul Technical University](https://www.itu.edu.tr/)*** with a GPA of *3.45/4* <br>
-    - ***Thesis Topic***: Assessment of Urbanization Impact On Heavy Precipitation in Istanbul, Turkey.
-- ***MSc***: Atmospheric Sciences from ***[Istanbul Technical University](https://www.itu.edu.tr/)*** with a GPA of *3.94/4* <br>
+- ***M.Sc.***: Atmospheric Sciences from ***[Istanbul Technical University](https://www.itu.edu.tr/)*** with a GPA of *3.94/4* <br>
     - ***Thesis Topic***: Future Changes in Hourly Extreme Precipitation, Return Levels, and Non-stationary Impacts in Türkiye.
+- ***B.Sc.***: Meteorological Engineering from ***[Istanbul Technical University](https://www.itu.edu.tr/)*** with a GPA of *3.45/4* <br>
+    - ***Thesis Topic***: Assessment of Urbanization Impact On Heavy Precipitation in Istanbul, Turkey.
 
 # 🌱 **About Me** 
 - I have been improving myself to think like an engineer and observe like an atmospheric scientist, which has led me to develop new ideas to assist Climate Science. One of those ideas was to create a website, ***[Climaturk](https://climaturk.com/)***, that reveals the climate conditions of atmospheric variables in Turkey, using comprehensive statistical and thermodynamic methods. I processed the state-of-art climate data utilizing various data types (NETCDF, HDF5, GRIB, CSV) with popular Python libraries (Xarray, Numpy, Pandas, Salem, Matplotlib) and visualized it to the end-user in very engaging ways.
