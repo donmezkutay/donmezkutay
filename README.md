@@ -24,19 +24,22 @@
 - ***CHECK MY NEW PUBLICATION on [Atmospheric Research](https://www.sciencedirect.com/journal/atmospheric-research/vol/286/suppl/C) >>>*** *[Boundary-dependent urban impacts on timing, pattern, and magnitude of heavy rainfall in Istanbul](https://www.sciencedirect.com/science/article/abs/pii/S0169809523000789?dgcid=coauthor)*
 
 # 🔭 **Education**
+- ***PhD.***: Environmental Sciences from ***[ETH Zurich](https://usys.ethz.ch/en/)*** <br>
+    - ***Thesis Topic***: The Influence of Street Trees on Urban Cooling, Human Thermal Comfort, and 	Carbon Dynamics.
 - ***M.Sc.***: Atmospheric Sciences from ***[Istanbul Technical University](https://www.itu.edu.tr/)*** with a GPA of *3.94/4* <br>
     - ***Thesis Topic***: Future Changes in Hourly Extreme Precipitation, Return Levels, and Non-stationary Impacts in Türkiye.
 - ***B.Sc.***: Meteorological Engineering from ***[Istanbul Technical University](https://www.itu.edu.tr/)*** with a GPA of *3.45/4* <br>
     - ***Thesis Topic***: Assessment of Urbanization Impact On Heavy Precipitation in Istanbul, Turkey.
 
 # 🌱 **About Me** 
+- Hi there! I'm a dedicated PhD student at Empa, affiliated with ETH Zurich, in the Department of Environmental System Sciences. Under the guidance of Dominik Brunner in the Atmospheric Modeling & Remote Sensing group, my research focuses on urban climate dynamics.
+
 - I have been improving myself to think like an engineer and observe like an atmospheric scientist, which has led me to develop new ideas to assist Climate Science. One of those ideas was to create a website, ***[Climaturk](https://climaturk.com/)***, that reveals the climate conditions of atmospheric variables in Turkey, using comprehensive statistical and thermodynamic methods. I processed the state-of-art climate data utilizing various data types (NETCDF, HDF5, GRIB, CSV) with popular Python libraries (Xarray, Numpy, Pandas, Salem, Matplotlib) and visualized it to the end-user in very engaging ways.
 
 - I developed a Python library called ***[Visjobs](https://pypi.org/project/visjobs/)*** (downloaded over **22.000** times according to ***[pepy.tech](https://pepy.tech/project/visjobs)*** that makes it easy for atmospheric scientists to access model and observation data (ERA5, GFS, GEFS, NAM, GHCN) without even having to download them (OpenDAP).
 
 # 📫 **Currently**
-
-- In my MSc project, I am applying a non-stationary extreme value analysis to high-resolution future projections of extreme precipitation indices. During the research, I become familiar with the concept of downscaling (of COSMO-CLM model) and statistical modeling. Further, I gained extensive practical experience using Xarray, Pandas, and Metpy to analyze various data formats (netCDF, GRIB, HDF) and types (reanalysis, projections, satellite data).
+- My work involves exploring the impact of street trees on urban cooling, human thermal comfort, and carbon exchange between the atmosphere, utilizing and enhancing ICON-ART mesoscale model and Terra_Urb/Bep-Tree urban parameterizations.
 
 ## 💬 **[Click Here to Learn More About Me](https://linktr.ee/kutaydonmez)** <br>
 
@@ -46,11 +49,9 @@
 * *Data Science*:
     * Weather, Climate Data Science/Analytics
 * *Climate Science*:
-    * Climate Modelling (COSMO)
+    * Climate Modelling (COSMO, ICON, WRF)
 * *Machine Learning*: 
     * Time Series Modelling
-* *WRF Model*:
-    * Weather Modelling, Case Studies
 * *Visualization*:
     * e.g. Matplotlib, Plotly
 * *Renewable Energy*:
@@ -61,18 +62,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=donmezkutay&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donmezkutay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**donmezkutay/donmezkutay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
