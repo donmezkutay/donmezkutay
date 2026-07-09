@@ -47,8 +47,8 @@ Thesis: *Assessment of Urbanization Impact on Heavy Precipitation in Istanbul, T
 
 ## Selected Publication
 
-**Boundary-dependent urban impacts on timing, pattern, and magnitude of heavy rainfall in Istanbul**  
-*Atmospheric Research*  
+**Evaluating the role of Urban Canopy Parameters in ICON TERRA_URB**  
+*Urban Climate*  
 [Read the article](https://doi.org/10.1016/j.uclim.2026.103018)
 
 ---
